@@ -2,19 +2,19 @@
   Hola 👋, soy Francisco González
 </h1>
 <h3>
-  Desarrollador de Software con Enfoque en Análisis de Datos
+  Desarrollador de Software full stack | Análista de Datos
 </h3>
 
 <p>
-  [cite_start]Soy un profesional apasionado por la tecnología, con formación como <strong>Ingeniero en Sistemas Computacionales</strong> [cite: 12, 45] [cite_start]y <strong>Data Analyst</strong>[cite: 10, 43]. 
-  [cite_start]Mi experiencia combina el desarrollo de software (Full Stack) [cite: 3, 6] [cite_start]y la administración de infraestructura TI [cite: 5, 50] [cite_start]con la capacidad de extraer, transformar y visualizar datos para generar insights que impulsan la toma de decisiones[cite: 39].
+  Soy un profesional apasionado por la tecnología, con formación como <strong>Ingeniero en Sistemas Computacionales</strong> y <strong>Data Analyst</strong>. 
+  Mi experiencia combina el desarrollo de software (Full Stack) y la administración de infraestructura TI con la capacidad de extraer, transformar y visualizar datos para generar insights que impulsan la toma de decisiones.
 </p>
 <p>
-  [cite_start]Busco aplicar mi expertise técnico en proyectos innovadores que resuelvan necesidades de negocio a través de soluciones basadas en datos[cite: 8, 41].
+  Busco aplicar mi expertise técnico en proyectos innovadores que resuelvan necesidades de negocio a través de soluciones basadas en datos.
 </p>
 
 <p align="left">
-  <a href="https://linkedin.com/in/francisco-gonzalez" target="blank">
+  <a href="https://linkedin.com/in/francisco-javi-gonzalez-garcia" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="francisco-gonzalez"/>
   </a>
   <a href="mailto:Francisco09gonzalezg@gmail.com">
@@ -63,9 +63,9 @@
 <table border="0" align="center">
 <tr valign="top">
 <td width="50%">
-  <strong><a href="[URL_DEL_PROYECTO_1]">📊 Análisis de Ventas Minoristas</a></strong>
+  <strong><a href="https://github.com/FranciscoGG09/dataset_vehiculos.git">📊 Análisis de Ventas Minoristas</a></strong>
   <p>
-    Análisis de +10,000 registros con Python y SQL para detectar patrones de compra[cite: 65]. Incluye dashboards interactivos en Power BI y Tableau [cite: 66] y reportes automatizados con Pandas/Matplotlib[cite: 67].
+    Análisis de +10,000 registros con Python y SQL para detectar patrones de compra. Incluye dashboards interactivos en Power BI y Tableau y reportes automatizados con Pandas/Matplotlib.
   </p>
 </td>
 <td width="50%">
@@ -82,15 +82,15 @@
 
 <h3 align="left">📈 Mis Estadísticas de GitHub</h3>
 <p>
-  (¡Aquí es donde necesito tu nombre de usuario!)
+  FranciscoGG09
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas de GitHub de Francisco" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_DE_GITHUB]&layout=compact&locale=es&theme=tokyonight" alt="Lenguajes más usados por Francisco" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FranciscoGG09&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas de GitHub de Francisco" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoGG09&layout=compact&locale=es&theme=tokyonight" alt="Lenguajes más usados por Francisco" />
 </p>
 
 <br/>
 
 <p align="center">
-  🌱 Actualmente estoy profundizando en [Alguna Tecnología] y buscando activamente nuevas oportunidades como Analista de Datos o Desarrollador de Software.
+  🌱 Actualmente estoy profundizando en Python y JS, estoy buscando activamente nuevas oportunidades como Analista de Datos o Desarrollador de Software.
 </p>
