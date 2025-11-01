@@ -69,9 +69,9 @@
   </p>
 </td>
 <td width="50%">
-  <strong><a href="[URL_DEL_PROYECTO_2]">📱 Análisis de Retención de Usuarios (App Móvil)</a></strong>
+  <strong><a href="https://github.com/FranciscoGG09/Web-Camp.git">📱 Web de conferencias (Web)</a></strong>
   <p>
-    Limpieza y segmentación de datos de usuarios en Python[cite: 70]. Se aplicó análisis de cohortes para identificar puntos de abandono [cite: 71] y proponer mejoras en el <i>onboarding</i>.
+    Web de conferencias, con sicronizacion a BD, conexion con Paypal para pagos, creacion de usuarios, e interfaz intuitiva.
   </p>
 </td>
 </tr> 
