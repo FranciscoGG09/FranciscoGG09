@@ -63,7 +63,7 @@
 <table border="0" align="center">
 <tr valign="top">
 <td width="50%">
-  <strong><a href="https://github.com/FranciscoGG09/dataset_vehiculos.git">📊 Análisis de Ventas Minoristas</a></strong>
+  <strong><a href="https://github.com/FranciscoGG09/dataset_vehiculos.git">📊 Análisis exploratorio de datos de vehículos</a></strong>
   <p>
     Análisis de +10,000 registros con Python y SQL para detectar patrones de compra. Incluye dashboards interactivos en Power BI y Tableau y reportes automatizados con Pandas/Matplotlib.
   </p>
