@@ -74,6 +74,12 @@
     Web de conferencias, con sicronizacion a BD, conexion con Paypal para pagos, creacion de usuarios, e interfaz intuitiva.
   </p>
 </td>
+  <td width="50%">
+  <strong><a href="https://github.com/FranciscoGG09/AppSalon.git">App web de salon</a></strong>
+  <p>
+    Aplicación web completa para la gestión de citas en un salón de belleza o barbería. Este proyecto implementa un sistema robusto que permite a los clientes registrarse, iniciar sesión y agendar servicios, mientras que un panel de administrador permite gestionar las citas y servicios ofrecidos.
+  </p>
+</td>
 </tr> 
 </table>
 
