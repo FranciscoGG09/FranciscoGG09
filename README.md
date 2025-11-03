@@ -63,7 +63,6 @@ Busco aplicar mi expertise técnico en proyectos innovadores que resuelvan neces
 
 ## 🚀 Proyectos Destacados
 
-He transformado la tabla en una lista simple y clara, más fácil de leer en GitHub:
 
 * **[📊 Análisis Exploratorio de Datos de Vehículos](https://github.com/FranciscoGG09/dataset_vehiculos.git)**
     > Análisis de +10,000 registros con Python, Pandas y visualización con Matplotlib/Seaborn. Enfocado en identificar tendencias de precio, correlación entre variables y limpieza de datos.
@@ -88,5 +87,5 @@ He transformado la tabla en una lista simple y clara, más fácil de leer en Git
 ---
 
 <p align="center">
-  🌱 Actualmente estoy profundizando en **Python** (Data Science) y **JavaScript** (React/Node.js). Estoy buscando activamente nuevas oportunidades como Analista de Datos o Desarrollador de Software.
+  🌱 Actualmente estoy profundizando en Python (Data Science) y JavaScript (React/Node.js). Estoy buscando activamente nuevas oportunidades como Analista de Datos o Desarrollador de Software.
 </p>
