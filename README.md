@@ -28,89 +28,76 @@ Busco aplicar mi expertise técnico en proyectos innovadores que resuelvan neces
 
 ## 🛠️ Mi Stack Tecnológico
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 20px;">
-  <h3 align="center" style="width: 100%;">📱 Desarrollo Móvil</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
-    <a href="https://flutter.dev" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/></a>
-    <a href="https://dart.dev" target="_blank"><img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/></a>
-    <a href="https://developer.android.com" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/></a>
-    <a href="https://kotlinlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/></a>
-    <a href="https://reactnative.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/></a>
-  </div>
-</div>
+### 📱 Desarrollo Móvil
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+</p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 20px;">
-  <h3 align="center" style="width: 100%;">🌐 Desarrollo Web</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
-    <a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a>
-    <a href="https://www.w3.org/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
-    <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a>
-    <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/></a>
-    <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a>
-    <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/></a>
-    <a href="https://www.php.net" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/></a>
-    <a href="https://laravel.com" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/></a>
-    <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a>
-    <a href="https://www.djangoproject.com" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/></a>
-    <a href="https://flask.palletsprojects.com" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/></a>
-  </div>
-</div>
+### 🌐 Desarrollo Web
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+</p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 20px;">
-  <h3 align="center" style="width: 100%;">🖥️ Desarrollo de Escritorio</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
-    <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a>
-    <a href="https://isocpp.org" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/></a>
-    <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
-    <a href="https://unity.com" target="_blank"><img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/></a>
-  </div>
-</div>
+### 🖥️ Desarrollo de Escritorio
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+</p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 20px;">
-  <h3 align="center" style="width: 100%;">📊 Análisis de Datos y Data Science</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
-    <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
-    <a href="https://jupyter.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
-    <a href="https://pandas.pydata.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-    <a href="https://numpy.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
-    <a href="https://matplotlib.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a>
-    <a href="https://seaborn.pydata.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/></a>
-    <a href="https://www.r-project.org" target="_blank"><img src="https://skillicons.dev/icons?i=r" alt="r" width="40" height="40"/></a>
-    <a href="https://powerbi.microsoft.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" height="40"/></a>
-    <a href="https://www.tableau.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="40" height="40"/></a>
-    <a href="https://streamlit.io" target="_blank"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/></a>
-    <a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/></a>
-  </div>
-</div>
+### 📊 Análisis de Datos y Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+</p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 20px;">
-  <h3 align="center" style="width: 100%;">🗄️ Bases de Datos</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
-    <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></a>
-    <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a>
-    <a href="https://mariadb.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/></a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/></a>
-    <a href="https://www.sqlite.org" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/></a>
-    <a href="https://firebase.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/></a>
-  </div>
-</div>
+### 🗄️ Bases de Datos
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+</p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 20px;">
-  <h3 align="center" style="width: 100%;">🛠️ Herramientas y Otros</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
-    <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
-    <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/></a>
-    <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a>
-    <a href="https://www.postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/></a>
-    <a href="https://www.linux.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/></a>
-    <a href="https://www.arduino.cc" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/></a>
-    <a href="https://www.figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/></a>
-    <a href="https://www.anaconda.com" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/></a>
-    <a href="https://canvasjs.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs" width="40" height="40"/></a>
-  </div>
-</div>
+### 🛠️ Herramientas y Otros
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
+</p>
 
 ---
 
