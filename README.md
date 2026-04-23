@@ -11,7 +11,7 @@ Busco aplicar mi expertise técnico en proyectos innovadores que resuelvan neces
 ## 🔗 Contacto y Redes
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/francisco-gonzalez" target="blank">
+  <a href="https://www.linkedin.com/in/francisco-javi-gonzalez-garcia" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="francisco-gonzalez"/>
   </a>
   <a href="mailto:Francisco09gonzalezg@gmail.com">
